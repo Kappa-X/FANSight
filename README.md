@@ -1,4 +1,6 @@
-# FANSight
+# FAR
+(Finn AR)
+
 A test project for AR
 
 Source:
